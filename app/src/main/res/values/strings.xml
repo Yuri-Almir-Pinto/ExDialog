@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ExDialog</string>
+    <string name="dialog_confirm">Tem certeza que deseja sair?</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_date_picker">DatePicker</string>
+    <string name="menu_time_picker">TimePicker</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="bye"><![CDATA[Que pena, bye bye :<]]></string>
+    <string name="wuv_u"><![CDATA[Obrigadu! :>]]></string>
+    <string name="clica_em_mim">Clica em mim</string>
+    <string name="tituloInfo">Envio de email</string>
+    <string name="infoMessage">Escolha o envio.</string>
+    <string name="open_datePicker">Open DatePicker</string>
+    <string name="open_timePicker">Open TimePicker</string>
+    <string name="definir_hora">Definir Hora</string>
+    <string name="definir_data">Definir Data</string>
+
+    <array name="infoList">
+        <item>E-mail</item>
+        <item>WhatsApp</item>
+        <item>Telefone</item>
+        <item>SMS</item>
+    </array>
+</resources>
